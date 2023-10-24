@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color: orange;
+  }
+  
+  body{
+    background-color: #13A86F;
+  }
+  
+  p1{
+    font-size: large;
+    color:black;
+  }
+  
+  p3{
+    font-size:large;
+  }
+  
+  .basics{
+    font-size:large;
+    color:#570362 ;
+  }
+  
+  .facts{
+    font-size:large;
+    color: #570362;
+  }
+  
+  h2{
+    color:yellow;
+  }
+  
+  table, td, th{
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  
+  a {
+    color: #F1ED12;
+  }
+  
+  th{
+    background-color: red;
+    color: black;
+  }
+  
+  tr{
+    background-color: green;
+    text-align:center;
+  }
+  
+  .gndTblUl{
+    text-align:center;
+  }
+  
